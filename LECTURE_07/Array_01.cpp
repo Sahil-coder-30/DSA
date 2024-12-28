@@ -33,6 +33,5 @@ if ( arr[j] > max )
 cout <<"\n The maximum element in the array is : "<< max;
 cout <<"\nThe maximum element is present at the index : "<< alpha;
 cout<<"\nThe minimum element is present at the index : "<< beta;
-
     return 0;
 }
